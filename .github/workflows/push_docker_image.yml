@@ -7,6 +7,7 @@ on:
       - rc-*
       - 9c-main
       - development
+      - v101-dotnet-6.0
 
 jobs:
   build_and_push:
